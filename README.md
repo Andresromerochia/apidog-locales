@@ -181,7 +181,7 @@ Your contributions help make Apidog accessible to users worldwide.
 
 ## 📞 Support
 
-- **General questions**: Create a [GitHub issue](https://github.com/apidog/apidog-locales/issues/new)
+- **General questions**: Create a [GitHub issue](https://github.com/apidog60d95ce03bbbd15e355be7bd830842ca8d8d54ce/apidog-locales/issues/new)
 - **Translation support**: Email yukioikeda@apidog.com
 - **Urgent issues**: Email with "Translation Urgent" in the subject line
 
